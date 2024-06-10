@@ -29,4 +29,4 @@ def update():
 
     with open('faceNames', 'wb') as file2:
         pickle.dump(names, file2)
-        print("Face Labels Updated Successfully!!!")
+        print("Face Labels Updated Successfully.!!!")
